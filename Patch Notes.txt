@@ -1,0 +1,27 @@
+Version 1.13 Bug Fixes
+
+ - Changed Reseller Commands. Syntax "clients <command>"
+ Note : Removed "admin=<true/false>" and "reseller=<true/false>"
+ from reseller commands.
+ - Fixed Where You Couldn't Edit a Users Cooldown
+
+Version 1.12 AKA "The Chat Expansion"
+
+ - Updated "chat"
+ Note : Plan on updating even more in the future!
+ - Updated UI Error When Adding User
+
+Version 1.11
+
+ - Added Tools "iplookup"
+ - Added <<include(file)>> Command For TFX Files
+
+Version 1.08
+
+ - Custom Colors Added To "users view <username>"
+ - Added "exit" Command
+ - Fixed Preset Plans
+ - Along With Additional Minor Features
+ - Changed <<$duration>> To <<$time>> In /attack.json
+
+Harmony Patch Notes [Added 12/12/2021]
